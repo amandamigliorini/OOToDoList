@@ -1,6 +1,6 @@
 # Overview
 
-The To-Do List program is written in C++ using VS Code and GitHub.
+The To-Do List program is an object-oriented program written in C++ using VS Code and GitHub.
 
     The To-Do List follows the requirements below.
 
