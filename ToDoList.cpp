@@ -91,7 +91,6 @@ void ToDoList::markTaskCompleted() {
     //the code that marks the task as completed.
     //Because the tasks are organized on a vector it has indexes starting on 0
     if (taskNumber >= 1 && taskNumber <= tasks.size()) {
-        //The completition uses the index by subtracting 1 from the taskNumber
         tasks[taskNumber - 1].markCompleted();
         cout << "Congrats for completing a task! Keep up the good work" << endl;
     } else {

@@ -5,9 +5,10 @@
 using namespace std;
 
 // Main function
+//Here is the starting function of the application
+// it starts the toDoList object and run
 int main()
 {
-    // Create a ToDoList object and run the application
     ToDoList toDoList;
     toDoList.run();
     return 0;

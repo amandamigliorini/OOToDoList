@@ -1,9 +1,11 @@
 # Overview
 
-To-Do List program written in C++ using VS Code and Github.
+The To-Do List program is written in C++ using VS Code and GitHub.
 
-The To-Do List follows the requirements here under.
+    The To-Do List follows the requirements below.
+
     The use of:
+
         ✔️Variables
         ✔️Expressions
         ✔️Conditionals
@@ -13,9 +15,10 @@ The To-Do List follows the requirements here under.
         ✔️Data structure from STL (such as a vector, list, or map)
 
     And the additional requirement:
+
         ✔️Read and write to a file.
 
-[Software Demo Video](https://youtu.be/g3eq3N3NeYM)
+[Software Demo Video](https://youtu.be/rEXW7V-sVZ0)
 
 # Development Environment
 
